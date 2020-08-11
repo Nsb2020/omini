@@ -1,0 +1,490 @@
+/* *{
+	margin:0px;
+	padding:0px;
+} */
+.container{
+	padding-right:10px;
+	padding-left:10px;
+}
+body{
+	width:auto;  
+	background-color:white ; 
+	color:black;
+	font-weight:normal;	
+	/*background-image:url('hero2.jpg'); */
+}    
+.Nav li{
+	display:block;
+	float:right;
+	padding:15px;
+		}
+a{
+	text-decoration: none;
+	color:orange; 
+}
+#me{
+	color:white;
+}
+.clr{
+	clear:both;
+}
+a:hover{
+	color:green;
+}
+a:active{
+	color:orange;
+}
+.first-div{
+	 /*background-image:url('k.jpg'); this is for the image bg for the first div make sure you complete it later */
+	}  
+.main-section{
+	padding-left:30px;
+	padding-top:300px;
+	background-image:url('hero4.jpg'); 
+	/*background-position: center right;*/
+	height:600px;
+}
+.main-section h1{
+	color:white;
+} 
+#header{
+	text-align: center;
+	word-spacing:0.2em;
+}  
+ .hj{
+	padding: 7px;
+	margin:10px;
+	text-decoration:none;
+	border:1px solid orange;
+	border-radius:33%;
+	outline:none;
+}
+ 
+.about{
+	 text-align:left;
+	 word-spacing:0.2em;
+	 color:black;
+	 float:right;
+	}
+#about1{
+	float:left;
+	width:24%;
+	box-sizing:border-box; 
+	padding:15px;
+}
+ #about2{
+	float:left;
+	width:24%;
+	padding:15px;
+	box-sizing:border-box; 
+}
+#about3{
+	float:left;
+	width:24%;
+	padding:15px;
+	box-sizing:border-box; 
+} 
+#about4{
+	float:right;
+	width:24%;
+	padding:15px;
+	/*box-sizing:border-box;*/ 
+}
+.nothing{
+    /* margin-bottom:5px; */
+	background-image:url('ntn.jpg'); 
+      width:700%;
+      height:300px;
+      color:green;
+}
+.simple {
+	text-align:center;
+	word-spacing:0.1em;
+	height:0.5em;
+}   
+.simple ul{
+	width:470px;
+	float:right;
+	padding-left:2px;
+	word-spacing:2px;
+}
+.simple li{
+	list-style:none;
+	padding-bottom:10px;
+	color:black;
+	padding-right: 2px;
+	line-height:25px;
+	text-align:left;
+}
+.our-city{
+		width:100%;
+		text-align:left;
+		float:right;
+		/*padding-right:550px;*/
+		font-weight:normal;
+		word-spacing:0.2em
+		/*color:green; */
+		background-color:red; 
+		box-sizing:border-box;
+		color:black;
+}  
+ #libson-image{
+	width:100%;	
+	height:130px;
+	background-image:url('b3.jpg')
+}
+.libson{
+	float:left;
+	padding:52px;
+	box-sizing:border-box; 
+		}  
+#Fransico-image{
+	width:100%;	
+	height:130px;
+	background-image:url('san.jpg')
+}
+.san-fransico{
+		float:left;
+		padding:74px;
+		box-sizing:border-box;  	
+	}
+#berlin-image{
+	width:100%;	
+	height:130px;
+	background-image:url('b2.jpg')
+}
+.berlin{
+		float:left;
+		padding:74px;
+		box-sizing:border-box;  
+	}
+#london-image{
+	width:100%;	
+	height:130px;
+	background-image:url('l4.jpg')
+}
+.london{
+		float:left;
+		padding:74px;
+		box-sizing:border-box;  	
+	}
+.our-city li{
+	list-style:none;
+	padding-bottom:5px;
+	margin-right:5px;
+}
+.fa-twitter{
+	color:orange;
+}
+.fa-cart-arrow-down{
+}
+#about{
+	color:orange;
+}
+.customer{
+	color:black;
+	font-family:Tahoma;
+	font-weight:normal;
+	float:right;
+	/*background-image:url('cost2.jpg'); 
+	height:400px;*/
+}
+.customer h1{
+	font-family:Tahoma;
+	font-style:normal;
+	text-transform:uppercase;
+	word-spacing:0.1em;
+	text-align:center;
+}
+.customer p{
+	font-weight:normal;
+	word-spacing:0.1em;
+	letter-spacing:normal;
+	font-size:20px;
+}
+#c-reply1{
+	float:left;
+	width:32%;
+	padding:3px;  
+	word-spacing:0.2em; 	
+	letter-spacing: 0.1em; 
+	text-align:left;
+}
+#c-reply2{
+	float:left;
+	box-sizing:border-box; 
+	width:32%;  	
+	padding:3px;  	
+	word-spacing:0.2em;  	
+	letter-spacing: 0.1em;  	
+	text-align:left;
+}
+#c-reply3{
+	float:left;
+	box-sizing:border-box; 
+	width:32%;  	
+	padding-left:20px;			
+	word-spacing:0.2em;
+	letter-spacing: 0.1em;
+	text-align:left;
+}
+.sign-up{
+	float:right; 			
+	width:100%;
+	background-color:lightgrey;
+	height:450px;
+}
+.sign-up h1{
+	text-transform:uppercase;  
+	text-align:center;  
+ 	box-sizing:border-box; 
+	}
+.sign-up h3{
+	text-transform:uppercase;
+	color:orange;
+	font-weight:normal;
+	font-size:25px;
+}	
+.sign-up h4{
+	padding-top:5px;
+	margin-top:15px;
+}
+.hk{
+	padding: 7px;
+	margin:10px;
+	text-decoration:none;
+	border:1px solid orange;
+	border-radius:33%;
+}
+.sign-up ul{
+	list-style:none;
+}
+.sign-up li{
+		padding-bottom:5px;
+		font-family:Tahoma;
+}
+#plan1{ 	
+	float:left; 	
+	margin-left:20px;
+	padding-left:20px; 
+	background-color:white;
+	border:1px solid white;
+	width:30%;   
+	box-sizing:border-box; 
+	height:330px;
+}
+#plan2{	
+	float:left; 	
+	padding-left:20px; 
+	border:1px solid white;
+	width:30%;
+	height:330px; 
+	background-color:white; 	
+	margin-left:20px;
+    box-sizing:border-box; 
+	}
+#plan3{ 	 	
+	float:left;   	
+	padding-left:20px; 
+	margin-left:20px;
+	height:330px;
+	width:30%;  	
+	box-sizing:border-box;   
+	background-color:white; 	
+} 
+.ss3{
+	border-radius:90%;
+}
+ .my-form{
+ 	text-align:center;
+	padding:20px;
+	box-sizing:border-box;
+}
+.my-form h1{
+	word-spacing:3px;
+}
+.my-form.form-group{
+	padding-bottom: 15px;
+}
+.my-form label{
+	font-family:tahoma;
+	display: inline;
+	padding-right:50px;
+}
+.my-form input[type="text"], .my-form select{
+	padding:8px;
+	width: 50%;
+	margin-top:20px;
+}
+.my-form select{
+	font-size:inherit;
+	background-color:white;
+	font-weight:normal;
+	font-family:tahoma;
+	margin-right:130px;
+	outline:none;
+	width:50%;
+}
+.area{
+	padding:8px;
+	margin-top:20px;
+	font-style:bold;
+}  
+ /*.my-form textarea{
+ 	font-size:inherit;
+ 	font-family:tahoma;
+ 	padding:80px;
+	width: 50%;
+	margin-top:20px;
+ }  */
+ .area{
+ 		font-weight:normal;
+ 		margin-right:60px;
+ 		width: 50%;
+ 		height:80px;
+ 		padding-bottom:100px;
+ }
+.the-footer{
+ 	background-color:hsl(270, 9%, 17%);
+ 	height:200px;
+ 	width:100%;
+ 	}
+ #footer li{
+ 	font-size:25px;
+ 	font-family:roberto;
+	display:block;
+	float:left;
+	padding:auto;
+	padding-left:55px;
+	padding-bottom:20px;
+	padding-top:30px;
+}
+#fot-icon{
+	float:right;
+	font-size:25px;
+	color:white;
+	padding-right:23px;
+}
+.copyright{
+	text-align:center;
+	font-size:20px;
+	font-family:[dm sherif display];
+	padding-top:30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
